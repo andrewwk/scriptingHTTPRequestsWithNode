@@ -5,7 +5,6 @@ const requestOptions = {
 };
 
 const printReverse = (html) => {
-  console.log("Raw html", html);
   console.log(`html is now reversed ${html.split("").reverse().join("")}`);
 };
 
