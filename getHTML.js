@@ -1,5 +1,5 @@
 const https          = require("https")
-const url            = "https://sytantris.github.io/http-examples/step4.html"
+const url            = "https://sytantris.github.io/http-examples/step4.html";
 const requestOptions = {
   host: 'sytantris.github.io',
   path: '/http-examples/step4.html'
